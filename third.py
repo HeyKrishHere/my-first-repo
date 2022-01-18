@@ -1,1 +1,1 @@
-print("It was amezing")
+print("It was amezing day")
